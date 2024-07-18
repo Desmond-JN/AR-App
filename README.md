@@ -1,1 +1,2 @@
 # AR-App
+We use a app called Xcode. Which is a coding app that allows you to build apps and download 3d objects from different websites to visulize 3d objects into the real world. Throgh that, we were able to dowmload 3D objects and we importing a set of programs that allow the camera scan the objewcts to view it in the real world. In order to visulize the 3D object, we scan the base (which is a card) to view the 3D object into the real world. One of the problems we faced was changing the errors in the code and fixinmg the size of the 3d object.
